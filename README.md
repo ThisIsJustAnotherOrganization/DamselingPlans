@@ -1,1 +1,3 @@
 # DamselingPlans
+
+## .MD files only 
