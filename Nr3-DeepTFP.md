@@ -1,4 +1,4 @@
-# Deep TFP
+# Deep TFP by Raven_Nightingale
 
 ## Preperation
 * Prep as usual and as requested by the seer.    
