@@ -8,5 +8,5 @@
 * Just before the drillee enters the correct system enter a 5 minute CR state
 
 ## Desired Effect
-* The Client learns how to TFP and cope with those situations.
-* The Client learns to stay calm under pressure
+* The drillee learns how to TFP and cope with those situations.
+* The drillee learns to stay calm under pressure
